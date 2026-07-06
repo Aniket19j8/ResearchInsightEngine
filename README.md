@@ -1,5 +1,7 @@
 # UX Research Insight Engine
 
+**Deployed Link: https://researchinsightengine-u3pwqlztrjebvqordi5hhn.streamlit.app/**
+
 > AI accelerates the busywork; the researcher always owns the interpretation.
 
 A small system that takes a raw interview transcript, uses AI to do a *first pass*
