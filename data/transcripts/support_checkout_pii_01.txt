@@ -1,0 +1,15 @@
+Interviewer: Walk me through the last time you tried to upgrade or pay for a course.
+
+Learner: I'm Sarah Lopez. I was trying to unlock the certificate track and the checkout page kept looping back to cart. I called support at 602-555-0144 and they said to email receipts@billing.example.com, which I did twice.
+
+Interviewer: What happened after you emailed?
+
+Learner: I never got a clear answer. The confirmation screen showed one price, my receipt showed another, and the help article at https://help.example.com/billing-faq didn't match what I actually saw in the UI. I almost gave up.
+
+Interviewer: How did you feel about the support experience?
+
+Learner: Frustrated. I like the course content, but billing feels like a separate broken product. If there were a live chat with my enrollment ID pulled in automatically, I would have stayed calm. Instead I spent twenty minutes digging through menus.
+
+Interviewer: Anything that worked well?
+
+Learner: Once I found the right invoice PDF, the line items were detailed. I just wish the path to get there wasn't five clicks deep under Account settings.

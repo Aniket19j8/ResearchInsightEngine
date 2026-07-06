@@ -1,0 +1,11 @@
+Interviewer: Walk me through the first time you signed up for the course platform.
+
+Learner: Honestly the sign-up itself was fine, but after I created my account I just landed on this big empty dashboard and had no idea what to do next. There was no "start here" or any kind of guided first step. I clicked around for a few minutes before I even found where my enrolled course was.
+
+Interviewer: How did you eventually find it?
+
+Learner: I went into the menu at the top, but the labels were confusing. "My Learning" and "Catalog" sounded like the same thing to me, so I clicked the wrong one twice. Once I got into the actual course though, the lessons were laid out clearly and I liked that each module showed how long it would take.
+
+Interviewer: Anything that would have helped at the start?
+
+Learner: A short welcome tour, or even just one highlighted button saying "Resume your course" would have saved me five minutes of confusion. First impressions matter and I almost closed the tab.

@@ -1,0 +1,15 @@
+Interviewer: You mostly use the platform on your phone, right? Tell me about that.
+
+Learner: Yeah, I do almost everything on mobile because I study on my commute. The videos play fine, but the player controls are tiny and I keep accidentally hitting the wrong button. Pausing is a gamble.
+
+Interviewer: What about reading the lesson materials?
+
+Learner: The text content doesn't really fit the screen. I have to scroll sideways sometimes, which is annoying. And the captions on videos are great when they show up, but on mobile they sometimes overlap the controls so I can't read them.
+
+Interviewer: How is the speed?
+
+Learner: On wifi it's quick, but on mobile data the pages take a while to load, especially the quiz pages. A couple times it timed out and I lost my progress on a quiz, which was really frustrating.
+
+Interviewer: Anything you love about it?
+
+Learner: The download-for-offline feature is genuinely great. When it works, I can keep learning in the subway with no signal. That alone keeps me using it.

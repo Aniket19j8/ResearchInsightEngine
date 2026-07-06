@@ -1,0 +1,10 @@
+[server]
+headless = true
+address = "0.0.0.0"
+port = 8501
+# The transformers/torch import noise from the file watcher is harmless;
+# disabling the watcher keeps the logs clean in production.
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false

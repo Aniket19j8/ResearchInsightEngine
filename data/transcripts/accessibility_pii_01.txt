@@ -1,0 +1,15 @@
+Interviewer: Thanks for joining today. Can you introduce yourself and how you use the platform?
+
+Learner: Sure. My name is Marcus Chen. I mostly study on my laptop with captions turned on because I have mild hearing loss. If you need to follow up, my email is marcus.chen@example.com or you can text me at (480) 555-0192.
+
+Interviewer: How well do captions and video work for you?
+
+Learner: When captions sync correctly, they're great. But on longer lectures the captions drift and I lose track. I also tried turning on the screen reader for the syllabus page, but the module headings weren't labeled properly so it just read "button button link" over and over.
+
+Interviewer: Anything about reading materials on the site?
+
+Learner: PDFs are the worst. Contrast on some slides is too low, and when I zoom in the page doesn't reflow so I'm panning sideways. I bookmarked a workaround article at https://support.example.edu/accessibility-tips but I shouldn't have to hunt outside the product for basic fixes.
+
+Interviewer: What would help most?
+
+Learner: Consistent captions, proper heading structure, and a single accessibility settings panel where I can set caption size, contrast, and reader-friendly layout once and keep it.

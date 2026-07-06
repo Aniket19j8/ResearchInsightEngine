@@ -1,0 +1,14 @@
+{
+  "themes": [
+    "onboarding",
+    "navigation",
+    "accessibility",
+    "content_quality",
+    "pacing",
+    "mobile_experience",
+    "performance",
+    "positive",
+    "feature_request"
+  ],
+  "severity": ["low", "medium", "high"]
+}
